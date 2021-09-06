@@ -1,2 +1,2 @@
 <h1> Welcome to SIES Graduate School of Technology -DevOps Lab </h1>
-<h2> Setup and deploy using jenkins for Shrinivas Baldawa</h2>
+<h2> Setup and deploy using jenkins for Shobhana Iyer</h2>
